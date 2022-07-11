@@ -1,0 +1,25 @@
+.header{
+    background-color: #103d96;
+    width: 100%;
+    height: 5rem;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_top_navbar{
+    display: flex;
+}
+.navbar_list{
+    display: flex;
+}
+.navbar_li{
+background-color: aliceblue;
+padding: .2rem 2rem;
+margin: .5rem;
+list-style: none;
+}
+
+.logo{
+}
