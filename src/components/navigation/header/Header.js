@@ -10,7 +10,7 @@ function Header (){
           
             <nav className={classes.header_top_navbar}>
                 <ul className={classes.navbar_list}>
-                    <li className={classes.navbar_li}>Log In</li>  
+                    <li className={classes.navbar_li}>Login</li>  
                     <li className={classes.navbar_li}>Sign Up</li>  
                     <li className={classes.navbar_li}>About</li>  
                 </ul>
