@@ -6,7 +6,7 @@ function App() {
     <div>
       <>
       <Header />
-      <h1>Hello worlds</h1>
+      <h1>Ad Free Video</h1>
       </>
     </div>
   );
