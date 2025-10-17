@@ -1,11 +1,13 @@
 import './App.css';
+import Header from './components/navigation/header/Header';
 
 function App() {
   return (
     <div>
-      <header>
-      <h1>Hello worlds</h1>
-      </header>
+      <>
+      <Header />
+      <h1>Ad Free Video</h1>
+      </>
     </div>
   );
 }
