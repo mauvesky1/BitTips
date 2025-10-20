@@ -2,7 +2,7 @@ import "./Navbar.module.css";
 
 function Navbar (){
     return (
-<></>
+<><h1>NavBar</h1></>
     )
 }
 

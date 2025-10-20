@@ -15,6 +15,7 @@ function Header (){
                     <li className={classes.navbar_li}>About</li>  
                 </ul>
             </nav>  
+            <Navbar />
         </header>
     )
 }
