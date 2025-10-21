@@ -1,3 +1,16 @@
 1. Firebase
 2. Login
 3. Video Player
+
+
+Step 1 — Define the MVP (what to build now)
+
+MVP features
+
+Mobile first
+
+User sign up / sign in (email + password)
+Upload a video file from a browser
+Server stores the file and returns a playable URL
+Play video in the browser (adaptive streaming optional)
+Simple video page with title, description, and view count
